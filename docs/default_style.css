@@ -1,5 +1,7 @@
 <html>
 <head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap" rel="stylesheet">
 <style>
 body {
   background-color: white;
@@ -8,7 +10,7 @@ body {
 h1, h2, h3 {
   color: black;
   text-align: center;
-  font-family: "Times New Roman";
+  font-family: 'Cormorant', serif;
 }
 
 h1 {
@@ -21,11 +23,6 @@ h2 {
 
 h3 {
     font-size: 20px;
-}
-
-h6 {
-  color: white;
-  font-size: 15px;
 }
 
 p {
